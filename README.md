@@ -15,3 +15,4 @@ App also allows to filter product for all accounts. For this tap on the floating
     └── util                    # Tools and utilities
 
 Whole documentation of Mobile app is available in the file **/doc/api/index.html**.
+The app screenshot available in the folder **/screeshots**
