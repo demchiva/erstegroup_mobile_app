@@ -14,4 +14,4 @@ App also allows to filter product for all accounts. For this tap on the floating
     ├── screen                  # The app UI
     └── util                    # Tools and utilities
 
-
+Whole documentation of Mobile app is available in the file **/doc/api/index.html**.
